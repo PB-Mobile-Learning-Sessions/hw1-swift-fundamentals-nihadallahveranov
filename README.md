@@ -1,0 +1,1 @@
+![0 fail](https://github.com/PB-Mobile-Learning-Sessions/hw1-swift-fundamentals-nihadallahveranov/blob/main/image.png)
